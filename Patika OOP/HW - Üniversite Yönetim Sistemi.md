@@ -19,4 +19,4 @@ Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
 Patika profilim: [oemerfaruk](https://app.patika.dev/oemerfaruk)
 
-![ÜYS UML](/img/%C3%9Cniversite%20Y%C3%B6netim%20Sistemi.drawio.svg)
+![ÜYS UML](/img/draw.drawio.svg)

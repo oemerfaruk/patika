@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: "Open Sans", sans-serif;
+}
+a{
+    text-decoration: none;
+}
+header{
+    background-color: antiquewhite;
+    text-align: center;
+}
+header h1{
+    color: brown;
+    text-shadow: 2px 2px 5px aquamarine;
+}
+header a{
+    color: aquamarine;
+    text-shadow: 2px 2px 5px red;
+    font-size: large;
+}
+.about{
+    text-align: center;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+main{
+    text-align: center;
+
+}
+main p{
+    color: #000;
+}
+.main1{
+    color: cadetblue;
+}
+
+footer{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+footer a{
+    color: black;
+    font-size: large;
+    padding: 5px;
+}
